@@ -1,5 +1,5 @@
-# Minimal makefile for Sphinx documentation
-#
+# Minimal makefile for Sphinx documentation YOU SHOULD NOT NEED TO RUN THIS
+# ONLY USED BY https://readthedocs.org/projects/meshtastic-python/
 
 # You can set these variables from the command line, and also
 # from the environment for the first two.
